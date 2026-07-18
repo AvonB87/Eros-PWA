@@ -1,0 +1,7 @@
+ZAČNI TUKAJ
+
+1. Odpri NAVODILA_KORAK_ZA_KORAKOM.md
+2. Nato zaženi npm install
+3. V Supabase zaženi supabase/setup.sql
+4. Ustvari .env iz .env.example
+5. Zaženi npm run dev
